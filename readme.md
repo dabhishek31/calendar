@@ -1,1 +1,2 @@
-#React JS - Webpack - Babel - SCSS
+# React JS - Webpack - Babel - SCSS
+### > Configuration
